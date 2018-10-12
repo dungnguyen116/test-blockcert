@@ -6,8 +6,8 @@
   "type": "Profile",
   "id": "https://www.blockcerts.org/samples/2.0/issuer-testnet.json",
   "name": "Dung Nguyen",
-  "url": "https://www.issuer.org",
-  "introductionURL": "https://www.issuer.org/intro/",
+  "url": "http://tma-innovation.center/",
+  "introductionURL": "hhttp://tma-innovation.center/",
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:msBCHdwaQ7N2ypBYupkp6uNxtr9Pg76imj",
